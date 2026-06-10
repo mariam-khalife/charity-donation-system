@@ -1,0 +1,52 @@
+{
+    "utilisateurs": [
+        {
+            "email": "mariam@gmail.com",
+            "firstName": "mariam",
+            "lastName": "khalife",
+            "password": "Aa@112233",
+            "phone": "71 572 439",
+            "userID": 1
+        },
+        {
+            "email": "hanikhalife@gmail.com",
+            "firstName": "hani",
+            "lastName": "khalife",
+            "password": "Aa112233!",
+            "phone": "03 629 858",
+            "userID": 2
+        },
+        {
+            "email": "rananajem@gmail.com",
+            "firstName": "rana",
+            "lastName": "najem",
+            "password": "@Aa@112233",
+            "phone": "76-791 049",
+            "userID": 3
+        },
+        {
+            "email": "mohammadkhalife@gmail.com",
+            "firstName": "mohammad",
+            "lastName": "khalife",
+            "password": "Mo@2008!",
+            "phone": "81-529 245",
+            "userID": 4
+        },
+        {
+            "email": "ali.khalife@gmail.com",
+            "firstName": "ali",
+            "lastName": "khalife",
+            "password": "@A112233a",
+            "phone": "03 456 741",
+            "userID": 5
+        },
+        {
+            "email": "fatima@gmail.com",
+            "firstName": "fatima",
+            "lastName": "khalife",
+            "password": 422430003,
+            "phone": "01 204 458",
+            "userID": 6
+        }
+    ]
+}

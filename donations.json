@@ -1,0 +1,28 @@
+{
+    "donations": [
+        {
+            "amount": 100.0,
+            "charityID": 3,
+            "date": "12/05/2025",
+            "donationID": 1,
+            "time": "09:59",
+            "userID": 1
+        },
+        {
+            "amount": 150.0,
+            "charityID": 1,
+            "date": "12/05/2025",
+            "donationID": 2,
+            "time": "10:11",
+            "userID": 1
+        },
+        {
+            "amount": 100.0,
+            "charityID": 2,
+            "date": "12/05/2025",
+            "donationID": 3,
+            "time": "10:24",
+            "userID": 1
+        }
+    ]
+}

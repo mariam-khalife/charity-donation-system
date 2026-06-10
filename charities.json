@@ -1,0 +1,31 @@
+{
+    "charities": [
+        {
+            "charityID": 1,
+            "currentAmount": 650.0,
+            "deadline": "30/05/2025, 06:30",
+            "description": "aider les gens sans abri",
+            "name": "mohammad",
+            "status": "Active",
+            "targetAmount": 2000.0
+        },
+        {
+            "charityID": 3,
+            "currentAmount": 400.0,
+            "deadline": "02/06/2025, 05:30",
+            "description": "aider en education",
+            "name": "hani",
+            "status": "Active",
+            "targetAmount": 2000.0
+        },
+        {
+            "charityID": 4,
+            "currentAmount": 250.0,
+            "deadline": "12/05/2025, 00:35",
+            "description": "aider sans abris",
+            "name": "san abris",
+            "status": "Active",
+            "targetAmount": 1000.0
+        }
+    ]
+}
